@@ -1,0 +1,8 @@
+com\qbthon\emailservice\controller\EmailController.class
+com\qbthon\emailservice\EmailServiceApplication.class
+com\qbthon\emailservice\controller\EmailTemplateController.class
+com\qbthon\emailservice\service\JsonParserUtil.class
+com\qbthon\emailservice\config\DynamoDBConfig.class
+com\qbthon\emailservice\service\EmailService.class
+com\qbthon\emailservice\model\Email.class
+com\qbthon\emailservice\service\EmailTemplateService.class

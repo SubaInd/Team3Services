@@ -1,0 +1,6 @@
+com\qthonservices\practisemcqservices\controller\PractiseMcqController.class
+com\qthonservices\practisemcqservices\repositories\PractiseMcqRepository.class
+com\qthonservices\practisemcqservices\config\DynamoDBConfig.class
+com\qthonservices\practisemcqservices\services\PractiseMcqService.class
+com\qthonservices\practisemcqservices\PractiseMcqApplication.class
+com\qthonservices\practisemcqservices\models\PractiseMcq.class

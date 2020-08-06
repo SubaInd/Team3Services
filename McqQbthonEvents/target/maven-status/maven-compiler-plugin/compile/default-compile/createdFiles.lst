@@ -1,0 +1,13 @@
+com\qbthon\model\AssociateDetails.class
+com\qbthon\service\SmeExcelParser.class
+com\qbthon\config\DynamoDBConfig.class
+com\qbthon\service\AssociatesExcelParser.class
+com\qbthon\model\Skillsets.class
+com\qbthon\service\ExcelParser.class
+com\qbthon\controller\EventController.class
+com\qbthon\QbthonApplication.class
+com\qbthon\model\EventDetails.class
+com\qbthon\model\Eventassociates.class
+com\qbthon\repositories\SkillsRepo.class
+com\qbthon\service\EventService.class
+com\qbthon\repositories\EventAssociatesRepository.class
